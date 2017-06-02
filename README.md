@@ -1,7 +1,7 @@
 # allenAI-tensorflow
 allenAI in tensorflow
 
-# disclaim
+# :)
 A modification to tensorflow 1.1 of https://github.com/tambetm/allenAI and never tested
 
 Glove.B: http://nlp.stanford.edu/data/glove.6B.zip
